@@ -1,6 +1,0 @@
-- hosts: all
-  tasks:
-    - command: /home/ec2-user/devops11/devops.sh
-      async: 60
-      poll: 0
-
